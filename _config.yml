@@ -1,7 +1,7 @@
 name: "Mandy's Tasty Creations"
 favicon: null
-layout_spectrum: 0.6377191697247326
-typography_spectrum: 0.15192494681105018
+layout_spectrum: 0.63184
+typography_spectrum: 0.30079
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.23002305394038558
-  lightness: 0.13988842372782528
+  lightness: 0.375
   saturation: 0.05134843522682786
   rhythmicContrast: 0.8037261334247887
 purpose: []
